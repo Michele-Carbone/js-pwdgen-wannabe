@@ -26,7 +26,7 @@ colorPlaceholder.innerHTML = color;
 
 /*Password visualizzato in html*/
 
-var currentYear = parseInt(21);
+var currentYear = 21;
 var passwordTest = name + lastName + color + currentYear;
 var passwordTest = document.getElementById('pass')
 console.log(passwordTest)
